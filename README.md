@@ -14,6 +14,8 @@
 # All method tests()
 ![image](https://user-images.githubusercontent.com/41667882/143839578-a3653742-f8c5-45f8-b071-36e98807d859.png)
 
-# Index page code
+# Index page code 
+Let's write an AJAX request on the client side. To run the code from a port on the server,
+right-click “Open with Live Server” in Visual Studio Code.
 ![image](https://user-images.githubusercontent.com/41667882/143839896-ac10599a-9da3-4663-826a-f550a95f4787.png)
 ![image](https://user-images.githubusercontent.com/41667882/143839955-d417dd4c-de71-4057-a79a-c75167ef376c.png)
