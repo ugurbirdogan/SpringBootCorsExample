@@ -1,5 +1,5 @@
 # SpringBootCorsExample
- CorsMappingExample
+ Simple CorsMapping example.
 
 # Proejct Structure
 ![image](https://user-images.githubusercontent.com/41667882/143838653-548fc1b2-5387-4bb3-9c39-1ea357b9946c.png)
